@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="AssassinMembers" type="PLAIN_TEXT" />
       <mapping pattern="privateData" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
